@@ -10,6 +10,16 @@
 - Researching a bridge between ROS1 and ROS2 using ROS1_bridge
 - Reasoning: the package is built on ROS1 (and our LIDAR is published in ROS2)
 - Trying to run DATMO on our robot by reviewing DATMO README and following the steps to successfully launch it
+/br
+# Week 8 Part 1: Theory 
+
+- Understanding the logic of the DATMO Package:
+    - Reading through the research paper associated with the DATMO package  
+        - Understanding the theory and logic 
+        - Figuring out the input and output  
+        - Identifying issues that can happen in a real race 
+        - Watching the tutorial presentation of the package
+
 
 
 
