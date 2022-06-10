@@ -38,6 +38,14 @@
         - Sending the DATMO research paper with annotations to better understand package
     - Sending our DATMO documentation for how to run the package on a Jetson using a ROS1_bridge to Team 2
 
+========================================
+# Week 9: Start Translating DATMO to ROS2
+
+Researching how to update the DATMO package
+Searching instructions on how to translate ROS1 DATMO package to a ROS2 version
+Creating a new ROS2 package using the ROS1 DATMO code 
+Translating and updating the files from the old package to the newly created package
+
 
 
 
