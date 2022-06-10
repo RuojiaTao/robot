@@ -1,4 +1,7 @@
-# robot
+# Robot
+
+\b Development timeline
+
 Detection and Tracking of Moving Objects with 2D LIDAR
 ========================================
 This package aims to provide Detection and Tracking of Moving Objects capabilities to robotic platforms that are equipped with a 2D LIDAR sensor and publish 'sensor_msgs/LaseScan' ROS messages.
