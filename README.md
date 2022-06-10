@@ -1,6 +1,17 @@
 # Robot
 
-Development timeline\b 
+# Development timeline
+========================================
+# Week 7: Preparation
+
+- Cloning DATMO from Github into the Jetson
+- Installing all the relevant packages on our Jetson
+    - Updating package dependencies in a docker container
+- Researching a bridge between ROS1 and ROS2 using ROS1_bridge
+- Reasoning: the package is built on ROS1 (and our LIDAR is published in ROS2)
+- Trying to run DATMO on our robot by reviewing DATMO README and following the steps to successfully launch it
+
+
 
 Detection and Tracking of Moving Objects with 2D LIDAR
 ========================================
