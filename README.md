@@ -1,6 +1,6 @@
 # Robot
 
-\b Development timeline
+Development timeline\b 
 
 Detection and Tracking of Moving Objects with 2D LIDAR
 ========================================
