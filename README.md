@@ -10,7 +10,7 @@
 - Researching a bridge between ROS1 and ROS2 using ROS1_bridge
 - Reasoning: the package is built on ROS1 (and our LIDAR is published in ROS2)
 - Trying to run DATMO on our robot by reviewing DATMO README and following the steps to successfully launch it
-/br
+========================================
 # Week 8 Part 1: Theory 
 
 - Understanding the logic of the DATMO Package:
@@ -19,6 +19,24 @@
         - Figuring out the input and output  
         - Identifying issues that can happen in a real race 
         - Watching the tutorial presentation of the package
+
+# Week 8 Part 2: Code Testing
+
+- Coding and Robot Testing:
+    - Producing Visualization of DATMO using RVIZ 
+        - Confirming the DATMO outputs are accurate through RVIZ 
+        - Visualizing real life outputs in the RVIZ 
+        - Writing documentation for setting up ROS1_bridge and DATMO with our robot (For Team 2 to use)
+    - Understanding general output structure of DATMO
+        - x, y, z point arguments 
+        - r, g, b, a color arguments
+
+# Week 8 Part 3: Communication
+
+- Communication with Team 2
+    - Connecting with Team 2 to let them know what is the output of the package
+        - Sending the DATMO research paper with annotations to better understand package
+    - Sending our DATMO documentation for how to run the package on a Jetson using a ROS1_bridge to Team 2
 
 
 
